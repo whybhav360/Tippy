@@ -25,12 +25,22 @@ View the calculated tip and total amount dynamically.
 
 📸 Demo
 App Logo
+
+
 ![Screenshot 2025-02-16 194503](https://github.com/user-attachments/assets/62775658-894c-4994-84e0-976cc6236856)
 
+
+
 App Home Screen
+
+
 ![Screenshot 2025-02-16 194533](https://github.com/user-attachments/assets/0ec57a20-c7bb-4481-a356-3277a32362ef)
 
+
+
 Calculated Tip and total amount after addding tip
+
+
 ![Screenshot 2025-02-16 194640](https://github.com/user-attachments/assets/4782e7f0-541d-453b-8ea3-7373cde3a2d3)
 
 
