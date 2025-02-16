@@ -1,5 +1,7 @@
 Tip Calculator 💰
 A simple and intuitive Tip Percentage Calculator built with Android Studio and Kotlin. This app dynamically calculates the tip based on the entered amount and an adjustable percentage slider.
+Part of my #WeekendChallenge on linkedin 
+[Vaibhav Madaan on LinkedIn](https://www.linkedin.com/in/vaibhav360/)
 
 ✨ Features
 Dynamic Tip Calculation – Updates the tip and total amount in real-time.
