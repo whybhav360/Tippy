@@ -15,7 +15,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/whybhav360/tip-calculator.git
+git clone [Tippy Repository](https://github.com/whybhav360/Tippy)
 Open the project in Android Studio.
 Build & Run on an emulator or a real device.
 🎮 Usage
