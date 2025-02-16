@@ -44,3 +44,8 @@ Calculated Tip and total amount after addding tip
 ![Screenshot 2025-02-16 194640](https://github.com/user-attachments/assets/4782e7f0-541d-453b-8ea3-7373cde3a2d3)
 
 
+Dynamic scrollbar value updation
+
+
+![ScreenRecording2025-02-16195008-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2e1f3a22-1204-4309-81c2-0fb9e530771d)
+
